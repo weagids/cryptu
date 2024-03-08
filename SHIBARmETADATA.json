@@ -1,0 +1,11 @@
+{
+  "name": "Shiba Inu Doctor",
+  "symbol": "SHIBAR",
+  "description": "Meme Doctor to support meme Shiba Inu Dogs.",
+  "uri": "https://raw.githubusercontent.com/weagids/cryptu/62a6b745a46b25424a6508b83dae447bd89b8f6a/SHIBAR.jpg",
+  "extensions": {
+    "website": "https://shibainudr.com",
+    "twitter": "https://twitter.com/Shibainudoctor",
+    "telegram": "https://t.me/shibarinudoctor"
+  }
+}
