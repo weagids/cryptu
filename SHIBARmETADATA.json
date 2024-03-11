@@ -2,10 +2,11 @@
   "name": "InimUmanah Token",
   "symbol": "NAYO2_1",
   "description": "Meme Doctor to support meme Shiba Inu Dogs.",
-  "uri": "https://github.com/weagids/cryptu/blob/main/SHIBAR.jpg?raw=true",
+  "image": "https://raw.githubusercontent.com/weagids/cryptu/62a6b745a46b25424a6508b83dae447bd89b8f6a/SHIBAR.jpg",
   "extensions": {
     "website": "hllllllllllllll.com",
     "twitter": "https://twictor",
     "telegram": "https://t.me/sor"
   }
 }
+
