@@ -1,12 +1,12 @@
-{
-  "name": "Upto",
-  "symbol": "lAYO2_lo",
-  "description": "Meme s.",
-  "image": "https://raw.githubusercontent.com/weagids/cryptu/main/image%20for%20metadata.webp",
-  "extensions": {
-    "website": "hghll.com",
-    "twitter": "https://twictor",
-    "telegram": "https://t.me/sor"
-  }
-}
-
+    {
+        "name": "Shiba Inu Doctor",
+        "symbol": "SHIBAR",
+        "description": "Coming together to make Shiba Inu live Long.",
+        "uri": "https://solanaini.s3.amazonaws.com/SHIBAR.jpg",
+        "extensions": {
+          "website": "https://shibainudr.com",
+          "twitter": "https://twitter.com/Shibainudoctor",
+          "telegram": "https://t.me/shibainudoctor"
+        }
+      }
+      
