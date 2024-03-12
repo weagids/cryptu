@@ -2,7 +2,7 @@
         "name": "Shiba Inu Doctor",
         "symbol": "SHIBAR",
         "description": "Coming together to make Shiba Inu live Long.",
-        "uri": "https://solanaini.s3.amazonaws.com/SHIBAR.jpg",
+        "uri": "https://github.com/weagids/cryptu/blob/main/SHIBAR.jpg?raw=true",
         "extensions": {
           "website": "https://shibainudr.com",
           "twitter": "https://twitter.com/Shibainudoctor",
